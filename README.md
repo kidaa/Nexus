@@ -3,9 +3,9 @@ Magic Mod aimed at utilities such as teleportation and physics magic utilizing l
 magic language is arabic inspired for flavor
 
 <b>Overall Goals:</b>
-* Mystcraft teleportation using leyline redirection iterdimensionally and Nexus focal points (requires 2 intersecting ley lines) for interdimensional rift creation (Note the rift core is formed there and then contained in a Qur'a Matrix until ready to be used. 
-* Leylines and Nexus have a set amount of Qur'a (randomly determined at worldgen) and recharge over time. Recharging can be speadup via sacrificial magics, blood letting, animal or monster sacrifices all increase the stored Qur'a in a nexus or leyline. 
-*  If a nexus is drained too low (<10%) it will start tearing about the land in a desperate attemtp to sustain itself (Similar to a hungry node). 
+* Mystcraft style teleportation using leyline redirection interdimensionally and Nexus focal points (requires 2 intersecting ley lines) for interdimensional rift creation (Note the rift core is formed there and then contained in a Qur'a Matrix until ready to be used. 
+* Leylines and Nexus have a set amount of Qur'a (randomly determined at worldgen) and recharge over time. Recharging can be sped up via sacrificial magics, blood letting, animal or monster sacrifices all increase the stored Qur'a in a nexus or leyline. 
+*  If a nexus is drained too low (<10%) it will start tearing up the land in a desperate attempt to sustain itself (Similar to a hungry node). 
 * If a nexus is completely drained it will become inert and will never create Qur'a again without the intervention of a ritual.
 * Spell discovery via inspiration research
 * Magic system that allows the player to bend, and break the laws of physics using the magic that connects and binds reality 
@@ -21,17 +21,17 @@ be cool.
 <b>Research system:</b>
 Learn by doing/experimentation similar to ars magica, mix and match combinations of Sok'as which are uncovered via 
 exploration and trading with others. Primal Sok'as; Elemental, Consciousness, Destiny, Destruction, Creation. Using a 
-combination of these runes (Up to 4) the player can design spells that are powerd with Qua'ra. The amount of power put 
+combination of these runes (Up to 4) the player can design spells that are powered with Qua'ra. The amount of power put 
 into a spell on cast (by channeling with right click) determines magnitude, damage, duration and invokes extra effects
 depending on the spell, a full write up of intended spells and combinations will follow in the future as well as proper 
 naming.
 
 <b>Worldgen:</b>
-Invisible and intangible leylines, they need to worldgen similar to thaumcraft nodes but only visible with the right items. These leylines and nexus point will provide inspiration attunments when visited across the world, different biomes offering 
+Invisible and intangible leylines, they need to worldgen similar to thaumcraft nodes but only visible with the right items. These leylines and nexus point will provide inspiration attunements when visited across the world, different biomes offering 
 different inspirations. The inspirations are used in the research system or can be traded. ie If I travel for a few 
 thousand meters and collect 4 Elemental inspirations, 2 Destiny Inspirations and a Creation elemental I can inscribe 
 one of my Elemental inspirations on a Tok'rah using some of my stored Qua'ra and trade that to another player. I lose 
-one of my stored Elmenetal in the process but will gain the one they trade me after reading their Tok'rah.
+one of my stored Elemental in the process but will gain the one they trade me after reading their Tok'rah.
 Leylines should be no closer together than 8 chunks and extend for 12 chunks, nexus points exist only where 2 leylines naturally intersect making them fairly rare.
 
 <b>Items:</b>
